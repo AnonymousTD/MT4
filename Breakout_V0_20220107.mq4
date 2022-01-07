@@ -11,6 +11,7 @@
 input double Lots = 0.1;
 input int    MovingPeriod  =3;
 input int    MovingShift   =2;
+input int    Test = 10;
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
 //+------------------------------------------------------------------+
